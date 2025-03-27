@@ -19,7 +19,7 @@ or
 Batfuscator.bat <file.cmd>  
 Replace <file.bat> or <file.cmd> with the actual filename.  
 
-4️⃣ Check the Output  
+4. Check the Output  
 After execution, the obfuscated version of your file will be generated.  
 
 🎯 Use Case  
