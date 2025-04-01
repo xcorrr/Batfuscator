@@ -1,6 +1,6 @@
 # Mini Tutorial: Batfuscator - Batch File Obfuscator
 
-What is **Batfuscator**?
+# What is **Batfuscator**?
 **Batfuscator** is a tool that obfuscates both **.bat** and **.cmd** files, making them harder to read or modify.
 
 # How to Use:
